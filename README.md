@@ -2,11 +2,12 @@
 ### _Instructions: "header.xml"_
 Make sure you have "header.xml" configured to your liking
 
+		<header id="Official">
 		<name>Poly HD Headers</name>
 		<author>Nicholas Chum</author>
 		<team>chummy development team</team>
 
-This file is ESSENTIAL to having your pack recognized by dashboard, because not only does dashboard filter out zips from within the dashboard folder on your externalSD, but it also checks within the zip files for this file.
+This file is ESSENTIAL to having your pack recognized by dashboard, because not only does dashboard filter out zips from within the dashboard folder on your externalSD, but it also checks within the zip files for this file. "header id" is the version code for your pack!
 
 ### _Instructions: Image Resources_
 
