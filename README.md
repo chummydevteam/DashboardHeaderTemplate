@@ -22,7 +22,7 @@ This file is ESSENTIAL to having your pack recognized by dashboard, because not 
 		notifhead_sunset_xhdpi.png
 		notifhead_sunset.png
 
-For now, **only photos of PNG type will be recognized**. I personally don't favor the JPG format so I would never recommend it when replacing system files. As we are bypassing the image creation tool on the Contextual Header Swapper (manual one), the swapper actually converts any image to PNG, but due to the bypass, we have to obey this "rule" :)
+For now, **only photos of PNG type will be recognized**. HOWEVER, I have indeed added support for vector drawables as well, so if you're interested, you can replace the files above with the same-named XML files (with XML extension) instead. I personally don't favor the JPG format so I would never recommend it when replacing system files. As we are bypassing the image creation tool on the Contextual Header Swapper (manual one), the swapper actually converts any image to PNG, but due to the bypass, we have to obey this "rule" :)
 
 ### _Instructions: Final Steps_
 		header.xml
